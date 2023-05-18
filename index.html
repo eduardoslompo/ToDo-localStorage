@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>ToDo</title>
+    <link
+      href="https://fonts.googleapis.com/icon?family=Material+Icons"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="./css/style.css"/>
+    <script src="./script/app.js" defer></script>
+  </head>
+  <body>
+    <div id="content">
+      <header>
+        <div id="box">
+          <h1>ToDo</h1>
+        </div>
+      </header>
+      <section>
+        <div class="container">
+          <div id="subcontainer">
+            <div id="sub">
+              <label>
+                New Task
+                <input id="add" type="text" col="205" />
+              </label>
+              <button class="add-item" id="btnItem">Add Task</button>
+              <label
+                >Filter
+                <input id="search" type="text" />
+              </label>
+            </div>
+          </div>
+          <ul class="search-list"></ul>
+        </div>
+      </section>
+    </div>
+  </body>
+</html>
