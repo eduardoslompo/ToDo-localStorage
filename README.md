@@ -24,7 +24,7 @@ This is a simple to-do list application that uses the browser's local storage fe
 ## :memo: Getting started
 
 1. Clone this repo `git@github.com:https://github.com/eduardoslompo/toDo-localStorage.git`
-2. Change directory `cd Planner`
+2. Change directory `cd toDo`
 3. Open index.html to run it locally
 
 ## :scroll: License
