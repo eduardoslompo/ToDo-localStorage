@@ -2,8 +2,6 @@
 
 This is a simple to-do list application that uses the browser's local storage feature to save tasks.
 
-## :page_facing_up: _Lista de Filmes (App built in JavaScript)_ :page_facing_up:
-
 ![toDo](https://raw.githubusercontent.com/eduardoslompo/toDo-localStorage/main/assets/imgs/toDo.png)
 
 ## :rocket: Deploy
